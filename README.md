@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react js
 - 
 - 📫 How to reach me https://github.com/mahamtech
-- 😄 Pronouns: ...mahalakshmi
+- 😄 Pronouns: ...maha
 
 
 <!---
